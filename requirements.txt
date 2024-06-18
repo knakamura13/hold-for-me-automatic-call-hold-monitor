@@ -1,0 +1,3 @@
+openai-whisper
+pyaudio
+# `brew install portaudio` may also be necessary
